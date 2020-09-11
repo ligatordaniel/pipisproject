@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pipisproject"
+    }
+  },
+  "defaultProject": "pipisproject",
+  "cli": {
+    "analytics": "e6a371a6-c3e4-495a-a999-04271c53a03c"
+  }
 }
